@@ -25,6 +25,3 @@ A C++ application using OpenCV for real-time camera capture and image processing
 ## Usage
 - Press 's' to save current frame as JPG
 - Press 'q' to quit application
-
-## Demo Video
-[Link to demo video](your-video-link-here)
